@@ -12,4 +12,7 @@
 - PLT: 외부 프로시저를 연결해주는 테이블. PLT를 통해 다른 라이브러리에 있는 프로시저를 호출
 - GOT: PLT가 참조하는 테이블. 프로시저들의 주소가 존재
 0. 프로그램에 PLT에 system 함수가 포함되어 있을 필요가 없다. 
-1. 
+
+
+이것좀 읽어봐
+https://blog.naver.com/PostView.naver?blogId=cme1245&logNo=221303896807
