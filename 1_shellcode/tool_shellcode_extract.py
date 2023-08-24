@@ -4,7 +4,7 @@ print("need to have '/shellcode' file")
 print("===============================")
 print("OUTPUT : ")
 
-f = open('./shellcode', 'r')
+f = open('./2_shellcode', 'r')
 result = []
 while True:
     s1 = f.readline()
