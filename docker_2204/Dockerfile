@@ -20,7 +20,6 @@ RUN git checkout 2023.03.19
 RUN ./setup.sh
 # install pwntools
 RUN pip3 install --upgrade pip
-RUN pip3 install pwntools
 # install one_gadget command
 RUN gem install one_gadget
 WORKDIR /root
